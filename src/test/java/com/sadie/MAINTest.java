@@ -1,9 +1,10 @@
 package com.sadie; 
-
+/*
 import org.junit.Test; 
 import org.junit.Before; 
-import org.junit.After; 
-
+import org.junit.After;*/
+import org.testng.Assert;
+import org.testng.annotations.Test;
 /** 
 * MAIN Tester. 
 * 
@@ -12,7 +13,7 @@ import org.junit.After;
 * @version 1.0 
 */ 
 public class MAINTest { 
-
+/*
 @Before
 public void before() throws Exception { 
 } 
@@ -20,7 +21,7 @@ public void before() throws Exception {
 @After
 public void after() throws Exception { 
 } 
-
+*/
 /** 
 * 
 * Method: main(String[] args) 

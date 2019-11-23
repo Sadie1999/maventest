@@ -1,26 +1,28 @@
 package com.util; 
 
-import org.junit.Assert;
+/*import org.junit.Assert;
 import org.junit.Test;
 import org.junit.Before; 
-import org.junit.After; 
-
+import org.junit.After;*/
+import org.testng.Assert;
+import org.testng.annotations.Test;
 /** 
 * MySumOfSquares Tester. 
 * 
 * @author <Authors name> 
 * @since <pre>ʮ�� 31, 2019</pre> 
 * @version 1.0 
-*/ 
-public class MySumOfSquaresTest { 
+*/
 
+public class MySumOfSquaresTest { 
+/*
 @Before
 public void before() throws Exception { 
 } 
 
 @After
 public void after() throws Exception { 
-} 
+} */
 
 /** 
 * 
@@ -76,7 +78,7 @@ public void testEvaluate() throws Exception {
     values[1]=3.0;
     values[2]=5.0;
     double result= mySumOfSquares.evaluate(values);
-    Assert.assertEquals("True",result,37.0,0.5);
+    Assert.assertEquals(result,37.0,0.5);
  //   if(result==37.0)
    //     System.out.println("YES");
     //else System.out.println("NO");

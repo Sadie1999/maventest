@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="1.296" tests="9" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="xmlFileName" value="testNG.xml"/>
+    <property name="java.class.path" value="D:\软件测试\实验\maventest\target\test-classes;D:\软件测试\实验\maventest\target\classes;E:\apache-maven-3.6.1\maven-repository\junit\junit\4.10\junit-4.10.jar;E:\apache-maven-3.6.1\maven-repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;D:\软件测试\实验\maventest\src\main\resources\lib\commons-math3-3.6.1.jar;E:\apache-maven-3.6.1\maven-repository\org\testng\testng\6.8\testng-6.8.jar;E:\apache-maven-3.6.1\maven-repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;E:\apache-maven-3.6.1\maven-repository\com\beust\jcommander\1.27\jcommander-1.27.jar;E:\apache-maven-3.6.1\maven-repository\org\yaml\snakeyaml\1.6\snakeyaml-1.6.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="E:\Java\jdk1.8.0_191\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\THINKPAD\AppData\Local\Temp\surefire7206494781890835202\surefirebooter5364496253455604695.jar C:\Users\THINKPAD\AppData\Local\Temp\surefire7206494781890835202 2019-11-23T18-34-24_452-jvmRun1 surefire5137432943634053097tmp surefire_05119752123771701379tmp"/>
+    <property name="surefire.test.class.path" value="D:\软件测试\实验\maventest\target\test-classes;D:\软件测试\实验\maventest\target\classes;E:\apache-maven-3.6.1\maven-repository\junit\junit\4.10\junit-4.10.jar;E:\apache-maven-3.6.1\maven-repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;D:\软件测试\实验\maventest\src\main\resources\lib\commons-math3-3.6.1.jar;E:\apache-maven-3.6.1\maven-repository\org\testng\testng\6.8\testng-6.8.jar;E:\apache-maven-3.6.1\maven-repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;E:\apache-maven-3.6.1\maven-repository\com\beust\jcommander\1.27\jcommander-1.27.jar;E:\apache-maven-3.6.1\maven-repository\org\yaml\snakeyaml\1.6\snakeyaml-1.6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\THINKPAD"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="E:\Java\jdk1.8.0_191\jre"/>
+    <property name="basedir" value="D:\软件测试\实验\maventest"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\THINKPAD\AppData\Local\Temp\surefire7206494781890835202\surefirebooter5364496253455604695.jar"/>
+    <property name="sun.boot.class.path" value="E:\Java\jdk1.8.0_191\jre\lib\resources.jar;E:\Java\jdk1.8.0_191\jre\lib\rt.jar;E:\Java\jdk1.8.0_191\jre\lib\sunrsasign.jar;E:\Java\jdk1.8.0_191\jre\lib\jsse.jar;E:\Java\jdk1.8.0_191\jre\lib\jce.jar;E:\Java\jdk1.8.0_191\jre\lib\charsets.jar;E:\Java\jdk1.8.0_191\jre\lib\jfr.jar;E:\Java\jdk1.8.0_191\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_191-b12"/>
+    <property name="user.name" value="THINKPAD"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="E:\Java\jdk1.8.0_191\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="E:\apache-maven-3.6.1\maven-repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\THINKPAD\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_191"/>
+    <property name="user.dir" value="D:\软件测试\实验\maventest"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="E:\Java\jdk1.8.0_191\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Rational\common;E:\Java\jdk1.8.0_191\bin;E:\jre1.8.0_144\bin;E:\apache-maven-3.6.1\bin\;E:\AndroidSDK\platform-tools;E:\AndroidSDK\tools;C:\Windows\System32;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;E:\apache-ant-1.10.6-bin\apache-ant-1.10.6\bin;E:\Git\cmd\Git\cmd;C:\Users\THINKPAD\AppData\Local\Programs\Python\Python36\;E:\PY\;C:\Users\THINKPAD\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\THINKPAD\AppData\Local\Programs\Python\Python36\;C:\Users\THINKPAD\AppData\Local\Microsoft\WindowsApps;C:\Users\THINKPAD\AppData\Local\Programs\Microsoft VS Code\bin;E:\PY\;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.191-b12"/>
+    <property name="java.ext.dirs" value="E:\Java\jdk1.8.0_191\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testAngleFunc" classname="com.sadie.JudgeTrangleTest" time="0.042"/>
+  <testcase name="testFunction" classname="com.sadie.JudgeTrangleTest" time="0.001"/>
+  <testcase name="testClear" classname="com.util.MySumOfSquaresTest" time="0"/>
+  <testcase name="testCopy" classname="com.util.MySumOfSquaresTest" time="0"/>
+  <testcase name="testCopyForSourceDest" classname="com.util.MySumOfSquaresTest" time="0.001"/>
+  <testcase name="testEvaluate" classname="com.util.MySumOfSquaresTest" time="0.019">
+    <failure message="expected [37.0] but found [38.0]" type="java.lang.AssertionError">java.lang.AssertionError: expected [37.0] but found [38.0]
+	at com.util.MySumOfSquaresTest.testEvaluate(MySumOfSquaresTest.java:81)
+</failure>
+  </testcase>
+  <testcase name="testGetN" classname="com.util.MySumOfSquaresTest" time="0"/>
+  <testcase name="testGetResult" classname="com.util.MySumOfSquaresTest" time="0.001"/>
+  <testcase name="testIncrement" classname="com.util.MySumOfSquaresTest" time="0"/>
+</testsuite>

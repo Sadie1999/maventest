@@ -1,10 +1,11 @@
 package com.sadie; 
-
+/*
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.Before; 
-import org.junit.After; 
-
+import org.junit.After;*/
+import org.testng.Assert;
+import org.testng.annotations.Test;
 /** 
 * JudgeTrangle Tester. 
 * 
@@ -13,14 +14,14 @@ import org.junit.After;
 * @version 1.0 
 */ 
 public class JudgeTrangleTest { 
-
+/*
 @Before
 public void before() throws Exception { 
 } 
 
 @After
 public void after() throws Exception { 
-} 
+} */
 
 /** 
 * 
