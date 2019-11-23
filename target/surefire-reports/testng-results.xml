@@ -2,34 +2,34 @@
 <testng-results skipped="0" failed="1" total="9" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="testproj" duration-ms="89" started-at="2019-11-23T10:34:28Z" finished-at="2019-11-23T10:34:28Z">
+  <suite name="testproj" duration-ms="96" started-at="2019-11-23T10:57:21Z" finished-at="2019-11-23T10:57:22Z">
     <groups>
     </groups>
-    <test name="smoke" duration-ms="89" started-at="2019-11-23T10:34:28Z" finished-at="2019-11-23T10:34:28Z">
+    <test name="smoke" duration-ms="96" started-at="2019-11-23T10:57:21Z" finished-at="2019-11-23T10:57:22Z">
       <class name="com.sadie.JudgeTrangleTest">
-        <test-method status="PASS" signature="testAngleFunc()[pri:0, instance:com.sadie.JudgeTrangleTest@58ceff1]" name="testAngleFunc" duration-ms="43" started-at="2019-11-23T18:34:28Z" finished-at="2019-11-23T18:34:28Z">
+        <test-method status="PASS" signature="testAngleFunc()[pri:0, instance:com.sadie.JudgeTrangleTest@58ceff1]" name="testAngleFunc" duration-ms="45" started-at="2019-11-23T18:57:21Z" finished-at="2019-11-23T18:57:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAngleFunc -->
-        <test-method status="PASS" signature="testFunction()[pri:0, instance:com.sadie.JudgeTrangleTest@58ceff1]" name="testFunction" duration-ms="2" started-at="2019-11-23T18:34:28Z" finished-at="2019-11-23T18:34:28Z">
+        <test-method status="PASS" signature="testFunction()[pri:0, instance:com.sadie.JudgeTrangleTest@58ceff1]" name="testFunction" duration-ms="3" started-at="2019-11-23T18:57:22Z" finished-at="2019-11-23T18:57:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFunction -->
       </class> <!-- com.sadie.JudgeTrangleTest -->
       <class name="com.util.MySumOfSquaresTest">
-        <test-method status="PASS" signature="testClear()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testClear" duration-ms="0" started-at="2019-11-23T18:34:28Z" finished-at="2019-11-23T18:34:28Z">
+        <test-method status="PASS" signature="testClear()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testClear" duration-ms="0" started-at="2019-11-23T18:57:22Z" finished-at="2019-11-23T18:57:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testClear -->
-        <test-method status="PASS" signature="testCopyForSourceDest()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testCopyForSourceDest" duration-ms="0" started-at="2019-11-23T18:34:28Z" finished-at="2019-11-23T18:34:28Z">
+        <test-method status="PASS" signature="testCopyForSourceDest()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testCopyForSourceDest" duration-ms="0" started-at="2019-11-23T18:57:22Z" finished-at="2019-11-23T18:57:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCopyForSourceDest -->
-        <test-method status="PASS" signature="testCopy()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testCopy" duration-ms="0" started-at="2019-11-23T18:34:28Z" finished-at="2019-11-23T18:34:28Z">
+        <test-method status="PASS" signature="testCopy()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testCopy" duration-ms="0" started-at="2019-11-23T18:57:22Z" finished-at="2019-11-23T18:57:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCopy -->
-        <test-method status="FAIL" signature="testEvaluate()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testEvaluate" duration-ms="1" started-at="2019-11-23T18:34:28Z" finished-at="2019-11-23T18:34:28Z">
+        <test-method status="FAIL" signature="testEvaluate()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testEvaluate" duration-ms="1" started-at="2019-11-23T18:57:22Z" finished-at="2019-11-23T18:57:22Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [37.0] but found [38.0]]]>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEvaluate -->
-        <test-method status="PASS" signature="testGetN()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testGetN" duration-ms="1" started-at="2019-11-23T18:34:28Z" finished-at="2019-11-23T18:34:28Z">
+        <test-method status="PASS" signature="testGetN()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testGetN" duration-ms="0" started-at="2019-11-23T18:57:22Z" finished-at="2019-11-23T18:57:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetN -->
-        <test-method status="PASS" signature="testGetResult()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testGetResult" duration-ms="0" started-at="2019-11-23T18:34:28Z" finished-at="2019-11-23T18:34:28Z">
+        <test-method status="PASS" signature="testGetResult()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testGetResult" duration-ms="1" started-at="2019-11-23T18:57:22Z" finished-at="2019-11-23T18:57:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetResult -->
-        <test-method status="PASS" signature="testIncrement()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testIncrement" duration-ms="0" started-at="2019-11-23T18:34:28Z" finished-at="2019-11-23T18:34:28Z">
+        <test-method status="PASS" signature="testIncrement()[pri:0, instance:com.util.MySumOfSquaresTest@30c7da1e]" name="testIncrement" duration-ms="0" started-at="2019-11-23T18:57:22Z" finished-at="2019-11-23T18:57:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testIncrement -->
