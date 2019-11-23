@@ -1,6 +1,7 @@
 package com.sadie; 
 
-import org.junit.Test; 
+import org.junit.Assert;
+import org.junit.Test;
 import org.junit.Before; 
 import org.junit.After; 
 
@@ -49,7 +50,8 @@ public void testAngleFunc() throws Exception {
     double length_b=2.0;
     double length_c=3.46;
     int result_test=myjudge.AngleFunc(length_a,length_b,length_c);
-    System.out.println("the result is"+result_test);
+    //System.out.println("the result is"+result_test);
+    Assert.assertEquals(result_test,2);
 } 
 
 

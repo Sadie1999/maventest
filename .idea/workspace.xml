@@ -19,37 +19,77 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1824">
-              <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
+            <state relative-caret-position="1375">
+              <caret line="135" column="38" selection-start-line="135" selection-start-column="38" selection-end-line="135" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sadie/JudgeTrangle.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sadie/JudgeTrangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <state relative-caret-position="154">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sadie/MAINTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sadie/JudgeTrangleTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/util/MySumOfSquaresTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="13">
+              <caret line="73" column="34" lean-forward="true" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/testNG.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sadie/MAIN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/test-classes/com/sadie/JudgeTrangleTest.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-577" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/test-classes/com/sadie/MAINTest.class">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="E:\Git\cmd\Git-2.21.0-64-bit (1).exe" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -59,11 +99,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/util/MySumOfSquares.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sadie/MAIN.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sadie/JudgeTrangle.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sadie/JudgeTrangleTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/util/MySumOfSquaresTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sadie/MAINTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sadie/JudgeTrangleTest.java" />
+        <option value="$PROJECT_DIR$/res/testNG.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/util/MySumOfSquaresTest.java" />
       </list>
     </option>
   </component>
@@ -90,7 +131,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1470" />
@@ -112,60 +153,12 @@
             <path>
               <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
               <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="maventest_jar" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
               <item name="maventest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sadie" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
@@ -200,39 +193,36 @@
             <path>
               <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
               <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
               <item name="maventest" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maventest" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-archiver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Git/cmd/Git-2.21.0-64-bit (1).exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../课件/slides/实验参考/AntTestDemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="plugins.junitgenerator.application" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -254,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MAINTest.testMain">
+  <component name="RunManager" selected="Application.MAIN">
     <configuration name="MAIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sadie.MAIN" />
       <module name="maventest" />
@@ -268,7 +258,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JudgeTrangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JudgeTrangleTest.testAngleFunc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maventest" />
       <extension name="coverage">
         <pattern>
@@ -278,7 +268,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.sadie" />
       <option name="MAIN_CLASS_NAME" value="com.sadie.JudgeTrangleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="testAngleFunc" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -333,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MAINTest.testMain" />
-        <item itemvalue="JUnit.MySumOfSquaresTest.testEvaluate" />
-        <item itemvalue="JUnit.JudgeTrangleTest.testFunction" />
-        <item itemvalue="JUnit.JudgeTrangleTest" />
         <item itemvalue="Application.MAIN" />
+        <item itemvalue="JUnit.MySumOfSquaresTest.testEvaluate" />
+        <item itemvalue="JUnit.MAINTest.testMain" />
+        <item itemvalue="JUnit.JudgeTrangleTest.testAngleFunc" />
+        <item itemvalue="JUnit.JudgeTrangleTest.testFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -357,16 +348,14 @@
       <workItem from="1572539104663" duration="130000" />
       <workItem from="1572540035763" duration="488000" />
       <workItem from="1572635768171" duration="597000" />
+      <workItem from="1572874278253" duration="1351000" />
+      <workItem from="1573642036076" duration="21000" />
+      <workItem from="1573642533498" duration="30000" />
+      <workItem from="1574496916056" duration="4820000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JudgeTrangleTest - 2019.10.30 at 23h 06m 40s.xml">
-      <configuration name="JudgeTrangleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MySumOfSquaresTest - 2019.10.30 at 23h 06m 54s.xml">
-      <configuration name="MySumOfSquaresTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MySumOfSquaresTest - 2019.10.31 at 00h 14m 09s.xml">
       <configuration name="MySumOfSquaresTest" configurationId="JUnit" />
     </history-entry>
@@ -382,14 +371,29 @@
     <history-entry file="MAINTest_testMain - 2019.10.31 at 14h 11m 28s.xml">
       <configuration name="MAINTest.testMain" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MAINTest_testMain - 2019.11.04 at 21h 32m 07s.xml">
+      <configuration name="MAINTest.testMain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JudgeTrangleTest_testAngleFunc - 2019.11.23 at 17h 44m 40s.xml">
+      <configuration name="JudgeTrangleTest.testAngleFunc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MAINTest_testMain - 2019.11.23 at 17h 47m 04s.xml">
+      <configuration name="MAINTest.testMain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MySumOfSquaresTest_testEvaluate - 2019.11.23 at 17h 47m 32s.xml">
+      <configuration name="MySumOfSquaresTest.testEvaluate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MySumOfSquaresTest_testEvaluate - 2019.11.23 at 17h 59m 18s.xml">
+      <configuration name="MySumOfSquaresTest.testEvaluate" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17901000" />
+    <option name="totallyTimeSpent" value="24123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2700081" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28860146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -398,7 +402,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -406,9 +410,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32978722" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32978722" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
       <window_info anchor="bottom" id="Jindent" order="13" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -444,27 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/util/MySumOfSquaresTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sadie/MAINTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sadie/MAIN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -472,12 +455,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sadie/JudgeTrangle.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -486,10 +465,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/com/sadie/MAINTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/com/sadie/JudgeTrangleTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sadie/MAIN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sadie/MAINTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sadie/JudgeTrangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        <state relative-caret-position="154">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/testNG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="135" column="38" selection-start-line="135" selection-start-column="38" selection-end-line="135" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/util/MySumOfSquaresTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="73" column="34" lean-forward="true" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
         </state>
       </provider>
     </entry>

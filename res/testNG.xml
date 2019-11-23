@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="testproj">
+    <test verbose="1" name="smoke">
+        <!--<packages>-->
+        <!--<package name="com.testproj.Demo"/>-->
+        <!--</packages>-->
+        <classes>
+            <class name="com.sadie.JudgeTrangleTest"></class>
+            <class name="com.util.MySumOfSquaresTest"></class>
+        </classes>
+    </test>
+</suite>

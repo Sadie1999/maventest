@@ -1,6 +1,7 @@
 package com.util; 
 
-import org.junit.Test; 
+import org.junit.Assert;
+import org.junit.Test;
 import org.junit.Before; 
 import org.junit.After; 
 
@@ -75,9 +76,10 @@ public void testEvaluate() throws Exception {
     values[1]=3.0;
     values[2]=5.0;
     double result= mySumOfSquares.evaluate(values);
-    if(result==37.0)
-        System.out.println("YES");
-    else System.out.println("NO");
+    Assert.assertEquals("True",result,37.0,0.5);
+ //   if(result==37.0)
+   //     System.out.println("YES");
+    //else System.out.println("NO");
 } 
 
 /** 
