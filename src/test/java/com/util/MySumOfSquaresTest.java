@@ -78,7 +78,7 @@ public void testEvaluate() throws Exception {
     values[1]=3.0;
     values[2]=5.0;
     double result= mySumOfSquares.evaluate(values);
-    Assert.assertEquals(result,37.0,0.5);
+    Assert.assertEquals(result,38.0,0.5);
  //   if(result==37.0)
    //     System.out.println("YES");
     //else System.out.println("NO");
